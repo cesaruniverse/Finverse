@@ -1,6 +1,6 @@
 # 🛡️ Política de Privacidad — FinVerse
 
-**Última actualización:** Septiembre 2026
+**Última actualización:** Octubre 2026
 
 En **FinVerse** (desarrollado por **Cesar Universe**), nos tomamos muy en serio la privacidad y la protección de tu información personal y financiera. Esta política describe de manera transparente cómo se gestionan tus datos dentro de la aplicación.
 
